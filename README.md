@@ -1,5 +1,8 @@
-<h1>Hi there, I'm Juphil Kadusale</h1>
-  <h3>Full Stack Developer | AI, Web & Mobile Systems Architect</h3>
+<div align="center">
+  <img src="./profile-banner.png" width="100%" alt="Juphil Kadusale Banner" />
+  
+  <h1>Hi there, I'm Juphil Kadusale 👋</h1>
+  <h3>Full-Stack Developer | AI, Web & Mobile Systems Architect</h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Available%20for%20Hire-YES-brightgreen?style=for-the-badge" alt="Available for Hire" />
@@ -12,6 +15,8 @@
     <i>"I architect sophisticated systems that bridge web, mobile, and AI technologies. Specialized in Next.js, React, PHP, VB.NET, and enterprise-grade solutions."</i>
   </p>
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -67,14 +72,52 @@ I am a passionate Full-Stack Developer with over **5 years** of experience in bu
 
 ## 🌟 World-Class Projects
 
-| Project | Platform | Key Technologies |
-| :--- | :--- | :--- |
-| **SariHub** | 📱 Mobile | React Native, SQLite, Expo |
-| **StreamPH Portal** | 🌐 Web | Next.js 14, TypeScript, Tailwind |
-| **AI Sleep Detection** | 🤖 AI | HTML5, JS, PHP |
-| **Food Delivery System** | 🌐 Web | PHP, MySQL, Tailwind |
-| **Juice Box Arena** | 💻 Desktop | VB.NET, GDI+, .NET |
-| **Secure Voting System** | 🌐 Web | PHP, MySQL, AJAX |
+Curated selection of production-grade applications demonstrating expertise across multiple platforms.
+
+### 📱 Mobile Applications
+
+*   **SariHub: Smart POS & Inventory Management**
+    *   *A modern, mobile-first solution for localized retail and sari-sari store management.*
+    *   **Tech:** `React Native`, `Expo`, `NativeWind`, `SQLite`, `Expo Camera`
+*   **StreamPH Mobile APK**
+    *   *Dedicated Android application for the StreamPH ecosystem.*
+    *   **Tech:** `React Native`, `Expo`, `TypeScript`, `Node.js`
+*   **JK DevWorks Tetris Mobile**
+    *   *Full mobile application for Android/iOS featuring classic Tetris logic.*
+    *   **Tech:** `React Native`, `Expo`, `Reanimated`, `TypeScript`
+*   **CodeBreaker Game**
+    *   *Interactive puzzle game for Android. Challenge yourself to break codes.*
+    *   **Tech:** `React Native`, `Expo`, `TypeScript`, `Android`
+
+### 🌐 Web Systems
+
+*   **StreamPH Web Portal**
+    *   *Professional streaming platform with 1M+ movies and series.*
+    *   **Tech:** `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Google AdSense`
+*   **Multi-Role Food Delivery System**
+    *   *Complex logistics system with separate portals for Users, Riders, and Admins.*
+    *   **Tech:** `PHP`, `MySQL`, `JavaScript`, `Tailwind CSS`
+*   **Smart Library Management System**
+    *   *Automation system for libraries using QR technology.*
+    *   **Tech:** `PHP`, `MySQL`, `QR Code API`, `SMTP`
+*   **Secure Digital Voting System**
+    *   *Secure platform for elections with data integrity focus.*
+    *   **Tech:** `PHP`, `MySQL`, `AJAX`, `Bootstrap`
+*   **Lost and Found System**
+    *   *Comprehensive platform for managing lost items within institutions.*
+    *   **Tech:** `PHP`, `MySQL`, `JavaScript`, `Tailwind CSS`
+
+### 🤖 AI & Desktop Innovations
+
+*   **AI Sleep Detection & Alarm**
+    *   *AI-powered web app that detects eye closure and triggers an alarm.*
+    *   **Tech:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `AI Models`
+*   **Juice Box Arena**
+    *   *Fast-paced desktop boxing game built with VB.NET. Features AI-driven opponent.*
+    *   **Tech:** `VB.NET`, `GDI+`, `.NET Framework`, `Windows Forms`
+*   **Student Monitoring & Parental Alert System**
+    *   *Dual-version ecosystem: Web Dashboard + Standalone Desktop App with SMS alerts.*
+    *   **Tech:** `PHP`, `MySQL`, `SQLite`, `VB.NET`, `SMS API`
 
 ---
 
@@ -90,13 +133,13 @@ I am a passionate Full-Stack Developer with over **5 years** of experience in bu
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://facebook.com/juphil.kadusale.3">
+  <a href="https://facebook.com/juphil.kadusale">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:jkdevworkz@gmail.com">
+  <a href="mailto:phu12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.tiktok.com/@jetkodedevworks">
+  <a href="https://tiktok.com/@jkdevworks">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
