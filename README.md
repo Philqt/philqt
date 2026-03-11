@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./profile-banner.png" width="100%" alt="Juphil Kadusale Banner" />
-  
-  <h1>Hi there, I'm Juphil Kadusale 👋</h1>
+ <h1>Hi there, I'm Juphil Kadusale</h1>
   <h3>Full-Stack Developer | AI, Web & Mobile Systems Architect</h3>
   
   <p align="center">
