@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Developer with over **2 years** of experience in building scalable and high-performance digital solutions. Based in the heart of tech innovation in Mabinay, I lead freelance initiatives that bridge the gap between high-performance web applications and robust desktop systems.
+I am a passionate Full-Stack Developer with over **4 years** of experience in building scalable and high-performance digital solutions. Based in the heart of tech innovation in Mabinay, I lead freelance initiatives that bridge the gap between high-performance web applications and robust desktop systems.
 
 - 🎓 **Education**: B.S. Computer Science, Negros Oriental State University (Class of 2025)
 - 🔭 **Current Focus**: Diving deep into **Game Development** & **Advanced UI/UX Design**
