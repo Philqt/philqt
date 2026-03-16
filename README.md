@@ -143,7 +143,7 @@ Curated selection of production-grade applications demonstrating expertise acros
   <a href="https://tiktok.com/@jkdevworks">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-</div> 
+</div>  
 
 <p align="center">
   <i>"Crafted with precision. Built with passion. Optimized for performance."</i><br>
