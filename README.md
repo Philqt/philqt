@@ -91,6 +91,9 @@ Curated selection of production-grade applications demonstrating expertise acros
 
 ### 🌐 Web Systems
 
+*   **Nexus Hub Enterprise Management System**
+    *   *A comprehensive enterprise management system for streamlining business operations and analytics.*
+    *   **Tech:** `Next.js`, `TypeScript`, `React`, `Tailwind CSS`
 *   **StreamPH Web Portal**
     *   *Professional streaming platform with 1M+ movies and series.*
     *   **Tech:** `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Google AdSense`
