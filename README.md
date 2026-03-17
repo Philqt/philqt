@@ -104,6 +104,9 @@ Curated selection of production-grade applications demonstrating expertise acros
 *   **Smart Library Management System**
     *   *Automation system for libraries using QR technology.*
     *   **Tech:** `PHP`, `MySQL`, `QR Code API`, `SMTP`
+*   **SISC Kiosk: Attendance & Monitoring System**
+    *   *Specialized kiosk system for educational institutions featuring real-time attendance tracking and administrative analytics.*
+    *   **Tech:** `PHP`, `MySQL`, `Tailwind CSS`, `SweetAlert2`, `AJAX`
 *   **Secure Digital Voting System**
     *   *Secure platform for elections with data integrity focus.*
     *   **Tech:** `PHP`, `MySQL`, `AJAX`, `Bootstrap`
