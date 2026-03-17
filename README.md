@@ -75,6 +75,9 @@ Curated selection of production-grade applications demonstrating expertise acros
 
 ### 📱 Mobile Applications
 
+*   **AdZap VPN & AdBlocker**
+    *   *A powerful, system-wide mobile ad-blocking application with advanced custom VPN routing and stealth timing features for seamless streaming and browsing.*
+    *   **Tech:** `React Native`, `Expo`, `Java`, `Android VpnService`, `TypeScript`
 *   **SariHub: Smart POS & Inventory Management**
     *   *A modern, mobile-first solution for localized retail and sari-sari store management.*
     *   **Tech:** `React Native`, `Expo`, `NativeWind`, `SQLite`, `Expo Camera`
