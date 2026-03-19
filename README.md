@@ -133,8 +133,8 @@ Curated selection of production-grade applications demonstrating expertise acros
 
 ## 📈 Professional Journey
 
-- **2026 - Present**: 🚀 Full-Stack Developer | Building high-performance Next.js apps.
-- **2025**: 🎨 Senior Frontend Engineer | Leading complex UI systems.
+- **2026 - Present**: 🚀 Full Stack Developer | Building high-performance Next.js apps.
+- **2025**: 🎨 Leading complex UI systems.
 - **2024**: ⚛️ React Developer | Specialized in interactive web apps.
 - **2020 - 2024**: 👨‍💻 Junior Developer | Mastering full-stack fundamentals.
 
