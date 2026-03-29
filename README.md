@@ -75,6 +75,9 @@ Curated selection of production-grade applications demonstrating expertise acros
 
 ### 📱 Mobile Applications
 
+*   **TORSential Quiz Platform**
+    *   *A professional, AI-powered quiz platform for police education featuring real-time ranking, 1v1 battles, and a "Chief Overlord" administrative hub with silent OTA updates.*
+    *   **Tech:** `React Native`, `Expo`, `Firebase (Firestore/Auth)`, `TypeScript`, `Tailwind CSS`
 *   **AdZap VPN & AdBlocker**
     *   *A powerful, system-wide mobile ad-blocking application with advanced custom VPN routing and stealth timing features for seamless streaming and browsing.*
     *   **Tech:** `React Native`, `Expo`, `Java`, `Android VpnService`, `TypeScript`
