@@ -75,7 +75,7 @@ Curated selection of production-grade applications demonstrating expertise acros
 
 ### 📱 Mobile Applications
 
-*   **TORSential Quiz Platform**
+*   **TORSential Company LSM APP**
     *   *A professional, AI-powered quiz platform for police education featuring real-time ranking, 1v1 battles, and a "Chief Overlord" administrative hub with silent OTA updates.*
     *   **Tech:** `React Native`, `Expo`, `Firebase (Firestore/Auth)`, `TypeScript`, `Tailwind CSS`
 *   **AdZap VPN & AdBlocker**
