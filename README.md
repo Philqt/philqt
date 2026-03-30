@@ -122,7 +122,9 @@ Curated selection of production-grade applications demonstrating expertise acros
 
 ### 🤖 AI & Desktop Innovations
 
-*   **AI Sleep Detection & Alarm**
+*   **GuroAI: Local AI Productivity Suite for Teachers**
+    *   *A professional, offline-first desktop application designed to automate DepEd lesson planning and student assessment. Features a trilingual AI assistant (English, Tagalog, Cebuano) and 4As framework integration.*
+    *   **Tech:** `.NET 10`, `Blazor Hybrid`, `C#`, `Tailwind CSS`, `SQLite`, `Ollama (Llama 3.2)`
     *   *AI-powered web app that detects eye closure and triggers an alarm.*
     *   **Tech:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `AI Models`
 *   **Juice Box Arena**
